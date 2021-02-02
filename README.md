@@ -1,4 +1,6 @@
-# rollup-starter-lib
+# rollup-starter-lib TypeScript
+
+#### forked from [rollup-starter-lib](https://github.com/rollup/rollup-starter-lib/tree/typescript)
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/rollup/rollup-starter-lib.svg)](https://greenkeeper.io/)
 
@@ -15,8 +17,8 @@ console.log('it will be lunchtime in ' + howLongTillLunch());
 Clone this repository and install its dependencies:
 
 ```bash
-git clone https://github.com/rollup/rollup-starter-lib
-cd rollup-starter-lib
+git clone https://github.com/nikmerlock97/rollup-lib-ts
+cd rollup-lib-ts
 npm install
 ```
 
